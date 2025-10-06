@@ -7,7 +7,7 @@ int main()
 
     do
     {
-         cout << "\n=== MENU ===\n";
+        cout << "\n=== MENU ===\n";
         cout << "\n1. Tortas \n";
         cout << "2. Palomitas \n";
         cout << "3. Aguas\n";
